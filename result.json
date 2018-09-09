@@ -1,0 +1,2199 @@
+{
+    "bottoms": [
+        {
+            "title": "Striped Pants with Multicolored Taping",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "65% polyester, 30% rayon, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Stripe up those legs and get a trendy vibe in these skinny pants with multicolored taping on the sides of the legs."
+        },
+        {
+            "title": "Fleece Lined Houndstooth Leggings",
+            "price": 18.0,
+            "colors": [
+                "Grey"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Keep your love of leggings going on all winter with the cozy, fleece lined design of these stylish houndstooth leggings."
+        },
+        {
+            "title": "Chevron Sweater Knit Flippy Skirt",
+            "price": 29.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "80% viscose, 20% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The flattering flippy design gives this chevron print, sweater knit skirt a flirty, feminine feel."
+        },
+        {
+            "title": "Leggings with Front Tie",
+            "price": 26.0,
+            "colors": [
+                "Grey"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Your leggings create a much trendier, athleisure outfit with the cool front tie on this design."
+        },
+        {
+            "title": "Diamond Skinny Pants with Vertical Zips",
+            "price": 30.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "85% polyester, 12% rayon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "If diamonds really are your best friend, then flaunt them on these chic pull-on skinny pants, featuring edgy vertical zip detailing."
+        },
+        {
+            "title": "Navajo Print Leggings",
+            "price": 18.0,
+            "colors": [
+                "Merlot",
+                "Black"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: S/M",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Give your legs some color and get trendy in these cool, navajo print knit leggings."
+        },
+        {
+            "title": "Slim Velour Joggers with Side Stripes",
+            "price": 28.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "29\" in-seam",
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Be warned that when you slip on these soft, cozy velour joggers with contrast side stripes, you'll be more inclined to cuddle up than go for an actual jog."
+        },
+        {
+            "title": "Belted Houndstooth Skinny Knit Pants",
+            "price": 30.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "85% polyester, 12% rayon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Class up your bottoms with the chic houndstooth print in these elegant, belted knit skinny pants."
+        },
+        {
+            "title": "Slim Velour Joggers with Drawstring",
+            "price": 28.0,
+            "colors": [
+                "Dynasty",
+                "Darkness",
+                "Merlot"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Ribbing: 65% polyester, 35% cotton",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Be warned that when you slip on these soft, cozy velour joggers with a convenient drawstring, you'll be more inclined to cuddle up than go for an actual jog."
+        },
+        {
+            "title": "Fleece Lined Jogger Leggings",
+            "price": 24.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The cool look of joggers mixes with the sleek fit of leggings in this comfy, fleece lined design."
+        },
+        {
+            "title": "Chevron Fleece Lined Leggings",
+            "price": 18.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "90% polyester, 10% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "It's never too cold for stylish leggings when you can flaunt this trendy chevron print in a cozy, fleece lined design."
+        },
+        {
+            "title": "Ruffled Front Skirt with Back Flounce",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "96% polyester, 4% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Show off your sleek side in this chic skirt, but we didn't forget your flirty side, which is why we added a sweet ruffled front and back flounce to the hem. It features a back zip and inside elastic for the perfect fit."
+        },
+        {
+            "title": "Polar Fleece Star Print Pajama Pants",
+            "price": 18.0,
+            "colors": [
+                "Fawn"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "100% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Who doesn't love getting cuddly? It's now that much easier in these soft and cozy polar fleece pajama pants in a dreamy star print."
+        },
+        {
+            "title": "Faux Leather Pencil Skirt with Side Stripes",
+            "price": 36.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "100% polyurethane",
+                "Stripes: 84% polyester, 14% rayon, 2% spandex",
+                "Combo: 95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We've taken the best that menswear has to offer to inspire this edgy, faux leather pencil skirt, with trendy side stripes to create a fierce silhouette."
+        },
+        {
+            "title": "Chino Pants with Side Taping",
+            "price": 42.0,
+            "colors": [
+                "Ivy"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "98% cotton, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Your go-to chinos are now that much cooler with the side taping on this trendy design."
+        },
+        {
+            "title": "Faux Suede Skinny Pants",
+            "price": 24.99,
+            "colors": [
+                "In The Buff"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "97% polyester, 3% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Get your chic on by simply opting for these classy faux suede skinny pants, with a side zip and inner elastic waistband, instead of your jeans."
+        },
+        {
+            "title": "Grid Pattern Brushed Leggings",
+            "price": 18.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Stray from your solids and mix it up a bit with the chic grid pattern on these trendy, brushed leggings."
+        },
+        {
+            "title": "Skinny Jeans with Wide Patterned Belt",
+            "price": 49.0,
+            "colors": [
+                "Dk Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "70% cotton, 28% polyester, 2% spandex",
+                "Remove belt before machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Not only will you love the smooth fit of these skinny jeans, but the wide, patterned belt that comes with them will give your outfit a trendier twist."
+        },
+        {
+            "title": "Crepe Joggers with Side Taping and Zip Pockets",
+            "price": 36.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We love the revival of everything retro, including these cool joggers featuring side taping, wide legs and trendy zip pockets."
+        },
+        {
+            "title": "Leopard Print Leggings",
+            "price": 18.0,
+            "colors": [
+                "Camel"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Why should your tops get all the fun when these hot, leopard print leggings deserve everyone's attention?"
+        },
+        {
+            "title": "Wide Leg Jeans",
+            "price": 49.0,
+            "colors": [
+                "Dk Denim Blue"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "74% cotton, 25% polyester, 1% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Nothing beats a classic, wide leg pant for a sleek style that your skinnies can't match. Dress them up with an elegant blouse or get a cooler vibe with a pair of sneakers and a tee."
+        },
+        {
+            "title": "Crepe Joggers with Side Stripes",
+            "price": 36.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We love the revival of everything retro, including these cool joggers featuring bold, red side stripes."
+        },
+        {
+            "title": "Pull-on Leggings with Side Stripes",
+            "price": 21.99,
+            "colors": [
+                "Dynasty",
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "60% rayon, 35% nylon, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "These cool leggings feature athletic stripes down each side but will look just as great with sexy heels as with sneakers."
+        },
+        {
+            "title": "Pull-on Skinny Pants with Side Buckle",
+            "price": 39.0,
+            "colors": [
+                "Ivy"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "70% rayon, 26% nylon, 4% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Your go-to skinny pants are now that much more stylish thanks to the chic side buckle on this trendy design."
+        },
+        {
+            "title": "Pull-on Scuba Leopard Print Pants",
+            "price": 17.99,
+            "colors": [
+                "Brown"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "All eyes will be on you when you strut your stuff in these hot, pull-on leopard print pants."
+        },
+        {
+            "title": "Glencheck Pants with Red Side Stripes",
+            "price": 39.0,
+            "colors": [
+                "Charcoal"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We love the bold red side stripes accented against the classic glencheck print on these elastic waist pants, and so will you!"
+        },
+        {
+            "title": "Belted Denim Skirt",
+            "price": 36.0,
+            "colors": [
+                "Dk Denim Blue"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "70% cotton, 28% polyester, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "This sleek, jean skirt comes ready with a d-ring belt, so all you need are your cute camis and tees for a cool, summer look."
+        },
+        {
+            "title": "Side Striped Skinny Pants with Exposed Front Zipper",
+            "price": 39.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "68% rayon, 27% nylon, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We're giving your classic skinny pants a trendy overhaul by adding retro side stripes and a chic, exposed front zipper to the design."
+        },
+        {
+            "title": "Bird's Eye Pull-on Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Let your legs loose in the trendy, bird's eye print of these flattering, pull-on skinny pants."
+        },
+        {
+            "title": "Navajo Printed Leggings",
+            "price": 18.0,
+            "colors": [
+                "Rumba Red"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Give your leggings a trendy western twist with the cool Navajo print on this design."
+        },
+        {
+            "title": "Seamless Fleece Lined Leggings",
+            "price": 12.99,
+            "colors": [
+                "Dk Green",
+                "Creamy",
+                "Black"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: S-M",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Keep wearing your favorite tunic tops all winter when you have these warm and cozy, fleece lined leggings with a seamless fit to pair with them."
+        },
+        {
+            "title": "Faux Suede Pencil Skirt with Exposed Back Zipper",
+            "price": 19.99,
+            "colors": [
+                "Dynasty"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Your sleek pencil skirt is that much classier in chic faux suede with no waistband and a sexy exposed back zipper."
+        },
+        {
+            "title": "Camouflage Leggings",
+            "price": 24.0,
+            "colors": [
+                "Dk Green"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "47% cotton, 47% polyester, 6% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Let your edgy side shine through in these cool, camouflage print leggings."
+        },
+        {
+            "title": "Plaid Brushed Leggings",
+            "price": 18.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You love plaid on top, and you'll love it just as much on bottom in these cool, plaid brushed leggings."
+        },
+        {
+            "title": "Polka Dot Faux Wrap Skirt with Ruffles",
+            "price": 19.95,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "100% viscose",
+                "Lining: 100% viscose",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "With a pop of polka dots and trendy ruffle detailing, you'll love the versatility of this flattering, faux wrap skirt."
+        },
+        {
+            "title": "Cropped Pull-on Pants with Contrast Side Band",
+            "price": 36.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "63% polyester, 34% rayon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Create a trendy look with these hot, cropped pants, featuring a retro side band on each leg."
+        },
+        {
+            "title": "Herringbone Pull-on Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Let your legs loose in the classy herringbone print of these flattering, pull-on skinny pants."
+        },
+        {
+            "title": "High Rise Skinny Jeans",
+            "price": 39.0,
+            "colors": [
+                "Dk Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "92% cotton, 6% polyester, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "When you want your skinny jeans to work for you, this classic 5 pocket design with a flattering high waist will do the job."
+        },
+        {
+            "title": "Striped Straight Leg Pants",
+            "price": 14.95,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "100% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The flattering, lengthening effect of the stripes on these pull-on pants make them a go-to summer staple."
+        },
+        {
+            "title": "Buffalo Plaid Brushed Leggings",
+            "price": 18.0,
+            "colors": [
+                "Black",
+                "Mars Red"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You love plaid on top, and you'll love it just as much on bottom in these bold, buffalo plaid brushed leggings."
+        },
+        {
+            "title": "Belted Pull-on Skinny Pants",
+            "price": 36.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "68% rayon, 27% nylon, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Time to tuck in your stylish tops to show off the belted waist of these flattering pull-on skinny pants."
+        },
+        {
+            "title": "Glencheck Pull-on Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Let your legs loose in the chic, glencheck print of these flattering, pull-on skinny pants."
+        },
+        {
+            "title": "Chevron Pull-on Skinny Pants with Side Stripe",
+            "price": 30.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Side Bands: 69% rayon, 27% nylon, 4% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Update your look with these cool skinnies featuring a trendy chevron print with solid side stripes."
+        },
+        {
+            "title": "Push-up Skinny Jeans",
+            "price": 39.0,
+            "colors": [
+                "Dk Denim Blue"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "75% cotton, 23% polyester, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Need an extra boost in your caboose? These super straight skinny jeans give you a push-up fit for the most flattering denim you'll own."
+        },
+        {
+            "title": "Floral Leggings",
+            "price": 18.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Treat your legs to some well-deserved flowers in these bold, floral leggings."
+        },
+        {
+            "title": "Skinny Jeans with Front Hem Slit",
+            "price": 39.0,
+            "colors": [
+                "Dk Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "98% cotton, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "For a little twist on a trendy touch, these cool skinny jeans have their slits in the front of the hems."
+        },
+        {
+            "title": "Plaid Sweater Knit Flippy Skirt",
+            "price": 29.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "80% viscose, 20% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "A classic plaid skirt is always in style, especially in this cute flippy design in a comfy sweater knit."
+        },
+        {
+            "title": "Belted Glencheck Crepe Ankle Pants",
+            "price": 39.0,
+            "colors": [
+                "Grey"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Get out your classy heels and flaunt the stylish fit of these belted ankle pants in an elegant glencheck print."
+        },
+        {
+            "title": "Skinny Pants with Diagonal Zip Pockets",
+            "price": 36.0,
+            "colors": [
+                "Black",
+                "Charcoal"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "68% rayon, 27% nylon, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Time to put those shorts away, but you won't mind when you look great in the flattering fit of these skinny pants, featuring diagonal front zip pockets and seam detailing."
+        },
+        {
+            "title": "Gingham Pull-on Skirt with Asymmetrical Flounce",
+            "price": 19.95,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "58% rayon, 38% polyester, 4% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The flirty asymmetrical flounce on this knit, pull-on skirt adds a whimsical flair to a classic gingham print."
+        },
+        {
+            "title": "Pull-on Joggers with Side Stripes",
+            "price": 28.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "80% polyester, 20% cotton",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "In these cool pull-on joggers, with trendy side stripes, you'll be ready for the day, whether you take on the town or the tv."
+        },
+        {
+            "title": "Sashed Herringbone Pants with Pleats",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "97% polyester, 3% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Get a professional look in a flash with these classy, herringbone print pants, with an elastic waist in the back, pleats and a sash."
+        },
+        {
+            "title": "Sashed Paperbag Ankle Pants",
+            "price": 36.0,
+            "colors": [
+                "Copper",
+                "Black",
+                "Autumn Leaf"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "63% polyester, 34% rayon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You have never looked trendier than in these must-have paperbag ankle pants, featuring a convenient sashed front."
+        },
+        {
+            "title": "Wide Waisted Leggings",
+            "price": 9.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "X-Large",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "90% cotton, 10% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Lounge comfortably in all colors with this great selection of cozy leggings with a flattering wide waist."
+        },
+        {
+            "title": "Printed Sweater Knit Flippy Skirt",
+            "price": 29.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "80% viscose, 20% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "You'll love pairing this chic, printed flippy skirt in a comfy sweater knit, with all your favorite sweaters and booties."
+        },
+        {
+            "title": "Skinny Glencheck Ankle Pants with Seam Details",
+            "price": 39.0,
+            "colors": [
+                "Grey"
+            ],
+            "sizes": [
+                "Small",
+                "X-Large",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "53% polyester, 35% rayon, 9% nylon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The season is filled with classy glencheck, so elevate your look with this elegant print in these pull-on skinny ankle pants, updated with fake zip pockets and seam details."
+        },
+        {
+            "title": "Glen Plaid Pull-on Pants with Zipper Detailing",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "70% rayon, 27% nylon, 3% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The trendy glen plaid print and vertical zipper detailing make these pull-on summer pants a perfect choice."
+        },
+        {
+            "title": "Pearl Destructed Skinny Jeans with Frayed Hems",
+            "price": 45.0,
+            "colors": [
+                "Md Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "98% cotton, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Your pearls may look great at your neck, but they look even better on these destructed skinny jeans with trendy, frayed hems."
+        },
+        {
+            "title": "Floral Scuba Skirt with Flounce Hem",
+            "price": 17.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "This sexy, slim scuba skirt features a bold, floral print and a flirty flounced hem for an overall sultry vibe."
+        },
+        {
+            "title": "Seamless High-waisted Leggings",
+            "price": 9.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "92% nylon, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Combine a seamless fit with a flattering physique in these comfy leggings. The high waist will accent your silhouette and keep you feeling stylish throughout your day."
+        },
+        {
+            "title": "Metallic Embroidered Skinny Jeans",
+            "price": 45.0,
+            "colors": [
+                "Bk Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "73% cotton, 25% polyester, 2% spandex",
+                "Machine wash inside out in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Skinny jeans are here to stay, so update your collection with this pair featuring metallic embroidery."
+        },
+        {
+            "title": "Skinny Pull-on Ankle Pants with Vertical Pockets",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "X-Large",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "96% polyester, 4% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "You need a great fit on an ankle pant that you can wear for all occasions, and this pull-on design, with stylish vertical welt pockets, is the perfect choice."
+        },
+        {
+            "title": "Dotted Scuba Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash inside out in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You'll get an instantly sleek look when you rock these scuba skinny pants with a chic mini dotted print."
+        },
+        {
+            "title": "Striped Pleated Pull-on Pants",
+            "price": 36.0,
+            "colors": [
+                "Dk Grey"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "62% polyester, 33% rayon, 5% spandex",
+                "Lining: 100% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Create a trendy look with these chic striped pants with flattering front pleats and an elastic waist which can easily be dressed up for work or down for play."
+        },
+        {
+            "title": "Pull-on Skinny Pants with Zipper Pockets",
+            "price": 36.0,
+            "colors": [
+                "Dk Green",
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "69% rayon, 27% nylon, 4% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Show off all your cute tops with these classic bottoms; chic skinny pants with trendy vertical zip pockets."
+        },
+        {
+            "title": "Sashed Glencheck Hi Low Skirt",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "65% polyester, 35% rayon",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "A chic print makes all the difference, and the classy glencheck plaid on this hi low skirt will create a stunning outfit with a bold tee or sweater."
+        },
+        {
+            "title": "Pull-on Pants with Zipper Detailing",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "70% rayon, 27% nylon, 3% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You'll love the smooth feel against your skin as much as the stylish look in the mirror when you wear these chic pull-on pants with vertical zipper detailing."
+        },
+        {
+            "title": "Coated Wide Waisted Leggings",
+            "price": 24.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "These coated leggings will give you a sleek look and a flattering fit due to their comfy wide waist."
+        },
+        {
+            "title": "Polka Dot Pull-on Midi Skirt with Flared Hem",
+            "price": 29.95,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Lining: 100% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "We love the midi length this season for a classy look, so flaunt it in this chic polka dotted skirt with a fun, flared bottom hem."
+        },
+        {
+            "title": "Pull-on Ankle Pants",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "76% rayon, 21% nylon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "You'll love the soft twill as much as the flattering fit of these pull-on ankle pants, and they're versatile enough to dress up or down."
+        },
+        {
+            "title": "Pull-on Ankle Pants",
+            "price": 34.0,
+            "colors": [
+                "Dk Grey"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "48% polyester, 26% rayon, 23% nylon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "You'll love the soft twill as much as the flattering fit of these pull-on ankle pants, and they're versatile enough to dress up or down."
+        },
+        {
+            "title": "Cargo Skinny Pants",
+            "price": 42.0,
+            "colors": [
+                "Dk Green",
+                "Black"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "73% cotton, 25% polyester, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Enhance your edgy vibe with these flattering skinny pants featuring trendy cargo pockets."
+        },
+        {
+            "title": "Pleated Pull-on Pants",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "63% polyester, 34% rayon, 4% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Create a trendy look with these chic pants with flattering front pleats and an elastic waist which can easily be dressed up for work or down for play."
+        },
+        {
+            "title": "Sashed Pleated Crepe Ankle Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Lining: 100% polyester",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Whether you throw on comfy sandals or sexy heels, your look will rock with these trendy, crepe ankle pants with front pleats and a sash."
+        },
+        {
+            "title": "High Rise Skinny Jeans with Side Taping",
+            "price": 49.0,
+            "colors": [
+                "Dk Denim Blasted"
+            ],
+            "sizes": [
+                "7",
+                "3",
+                "13",
+                "5",
+                "15",
+                "9",
+                "11",
+                "1"
+            ],
+            "specs": [
+                "Model's Size: 3",
+                "Model's Height: 5'10\"",
+                "64% cotton, 32% polyester, 2% rayon, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "These flattering skinny jeans give you a cool, retro feel with their high rise fit and contast side taping."
+        },
+        {
+            "title": "Wide Waist Leggings",
+            "price": 9.99,
+            "colors": [
+                "Merlot",
+                "Black",
+                "Fawn",
+                "Brown",
+                "Charcoal",
+                "Darkness",
+                "Stellar",
+                "Creamy"
+            ],
+            "sizes": [
+                "Small",
+                "X-Large",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "90% cotton, 10% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Lounge comfortably in all colors with this great selection of cozy wide waist leggings."
+        },
+        {
+            "title": "Floral Pull-on Skirt with Back Slit",
+            "price": 12.95,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Our fresh flowers have traveled down your outfit to adorn this sleek crepe pull-on skirt with a back slit in the summer florals you love."
+        },
+        {
+            "title": "Pull-on Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Mushroom",
+                "Black",
+                "Dk Green",
+                "Darkness",
+                "Shiraz",
+                "Creamy"
+            ],
+            "sizes": [
+                "Small",
+                "X-Large",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "72% cotton, 23% rayon, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "In the perfect, skinny leg fit, and in a variety of colors to go with all your outfits, these really are the pull-on pants for every occasion."
+        },
+        {
+            "title": "Printed Scuba Midi Pencil Skirt with Lace-up Detail",
+            "price": 14.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Take your sexy pencil skirt to the next level with the trendy lace-up detailing on this flirty midi design."
+        },
+        {
+            "title": "Sashed Crepe Pull-on Pants with Wide Legs",
+            "price": 34.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Skinnies are great, but for a classier style, sport these wide-legged crepe pants with a stylish sash."
+        },
+        {
+            "title": "Sashed Pleated Ankle Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "You'll love the laidback vibe these comfy sashed ankle pants, with a chic pleated front, give you."
+        },
+        {
+            "title": "V-front Pull-on Skinny Pants",
+            "price": 19.99,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "76% rayon, 21% nylon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Give your belt a break and flaunt the stylish v-front on the waistband of these skinnies instead."
+        },
+        {
+            "title": "Elastic Waist Skirt with Printed Lace Overlay",
+            "price": 38.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "100% polyester",
+                "Lining: 95% polyester, 5% elastane",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "This sweet skirt has a comfy wide elastic waistband and back zip, but it will also give you a romantically feminine vibe every time you twirl, with its flirty printed lace overlay."
+        },
+        {
+            "title": "Wide-waisted Pencil Skirt",
+            "price": 24.0,
+            "colors": [
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "21\"",
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "74% rayon, 22% nylon, 4% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "For a sexy look and a flattering, wide-waisted fit, you'll love the versatility of this body-hugging pull-on pencil skirt."
+        },
+        {
+            "title": "Pull-on Pants with V Waistband",
+            "price": 19.99,
+            "colors": [
+                "Dk Grey"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "48% polyester, 26% rayon, 23% nylon, 3% spandex",
+                "Hand wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Belts be gone when you have the stylish V-front waistband  on these pull-on skinny pants to show off."
+        },
+        {
+            "title": "Leggings with 4-stripe Detail",
+            "price": 12.99,
+            "colors": [
+                "Grey",
+                "Black"
+            ],
+            "sizes": [
+                "L/XL",
+                "S/M"
+            ],
+            "specs": [
+                "Model's Size: S/M",
+                "Model's Height: 5'10\"",
+                "92% polyester, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach."
+            ],
+            "description": "Create a cool, retro vibe with these throwback leggings, featuring stripe detailing on the side of each leg."
+        },
+        {
+            "title": "High Waisted Wide Leg Pants with Button Detail",
+            "price": 36.0,
+            "colors": [
+                "Beeswax",
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "95% polyester, 5% spandex",
+                "Machine wash in cold water inside out, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "These chic, high waisted pants are designed to give you a flattering, feminine physique, while the button detailing and wide legs keep them trendy."
+        },
+        {
+            "title": "Sashed Pencil Skirt with Button Front",
+            "price": 36.0,
+            "colors": [
+                "Black",
+                "Ivy"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "70% rayon, 26% nylon, 4% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "The flattering fit of this sashed pencil skirt is further complemented by the chic front button detailing."
+        },
+        {
+            "title": "High Waist Seamless Leggings",
+            "price": 9.99,
+            "colors": [
+                "Black",
+                "Stellar"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% nylon, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Combine a seamless fit with a flattering physique in these comfy leggings. The high waist will accent your silhouette and keep you feeling stylish throughout your day."
+        },
+        {
+            "title": "Seamless Bermuda Leggings",
+            "price": 9.99,
+            "colors": [
+                "White",
+                "Black"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "92% nylon, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Wear these seamless Bermuda cut leggings on their own, or under a skater dress during a windy day!"
+        },
+        {
+            "title": "Wide Waist Leggings",
+            "price": 9.99,
+            "colors": [
+                "Stellar",
+                "Black",
+                "Charcoal"
+            ],
+            "sizes": [
+                "Small",
+                "Tr\u00e8s grand",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "90% cotton, 10% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "Lounge comfortably in all colors with this great selection of cozy wide waist leggings."
+        },
+        {
+            "title": "Seamless Capri Leggings with Lace Trim",
+            "price": 9.99,
+            "colors": [
+                "White",
+                "Black",
+                "Stellar"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "Medium"
+            ],
+            "specs": [
+                "Model's Size: S",
+                "Model's Height: 5'10\"",
+                "92% nylon, 8% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "With a wide waist and a seamless fit, these capri leggings almost don't even need the flirty lace trim to become your new favorite pair."
+        },
+        {
+            "title": "Pull-on Skinny Jeans",
+            "price": 19.99,
+            "colors": [
+                "Md Denim Blasted",
+                "Dk Denim Blue",
+                "Black Rinse"
+            ],
+            "sizes": [
+                "Small",
+                "Large",
+                "X-Small",
+                "Medium",
+                "X-Large"
+            ],
+            "specs": [
+                "Model's Size: XS",
+                "Model's Height: 5'10\"",
+                "71% cotton, 27% polyester, 2% spandex",
+                "Machine wash in cold water, hang to dry",
+                "Do not bleach"
+            ],
+            "description": "These comfy pull-on jeans give you the flattering, skinny fit that you must have in your closet."
+        }
+    ],
+    "web_exclusives": [
+        {
+            "title": "Lined High Low Lace Dress with Adjustable Straps",
+            "price": 68.0
+        },
+        {
+            "title": "Printed Sleeveless Dress with Back Zip",
+            "price": 45.0
+        },
+        {
+            "title": "Printed Drop Shoulder Top with Shirt Tail Hem",
+            "price": 32.0
+        },
+        {
+            "title": "Polar Fleece Star Print Pajama Pants",
+            "price": 18.0
+        },
+        {
+            "title": "Sweater Knit Patchwork Dress",
+            "price": 45.0
+        },
+        {
+            "title": "Hi Low Tunic Dress with Crochet Collar and Ruffles",
+            "price": 45.0,
+            "discount_price": 29.95
+        },
+        {
+            "title": "Printed Scuba Midi Dress with Side Ruching",
+            "price": 45.0
+        },
+        {
+            "title": "Striped Straight Leg Pants",
+            "price": 24.0,
+            "discount_price": 14.95
+        },
+        {
+            "title": "Floral Front Tie Blouse with Kimono Sleeves",
+            "price": 34.0,
+            "discount_price": 19.95
+        },
+        {
+            "title": "Abstract Print Dolman Top with Tassel Trim",
+            "price": 30.0
+        },
+        {
+            "title": "Ruched V-neck Maxi Dress with Back Tie",
+            "price": 45.0,
+            "discount_price": 29.95
+        },
+        {
+            "title": "Printed Maxi Dress with Crossover Top and Flutter Sleeves",
+            "price": 45.0,
+            "discount_price": 29.95
+        },
+        {
+            "title": "Double Layer Asymmetrical Color Block Top",
+            "price": 30.0
+        },
+        {
+            "title": "Floral A-line Top with Ruffled Asymmetrical Hem",
+            "price": 36.0,
+            "discount_price": 19.95
+        },
+        {
+            "title": "Floral Burnout Dolman Top with Cami",
+            "price": 36.0,
+            "discount_price": 19.95
+        },
+        {
+            "title": "Cowl Neck Dress with Side Buttons and Kangaroo Pockets",
+            "price": 35.0
+        },
+        {
+            "title": "Flute Sleeved Lace Top with Hi Low Hem",
+            "price": 59.0,
+            "discount_price": 39.95
+        },
+        {
+            "title": "Sleeveless Maxi Dress with Drawstring Waist",
+            "price": 45.0
+        },
+        {
+            "title": "Floral Blouse with Crochet Detailing and Elastic Hem",
+            "price": 34.0
+        },
+        {
+            "title": "Elastic Waist Skirt with Printed Lace Overlay",
+            "price": 38.0
+        },
+        {
+            "title": "Floral Hi Low V-neck Top",
+            "price": 39.0
+        },
+        {
+            "title": "Striped Sashed Off Shoulder Jumpsuit",
+            "price": 49.0,
+            "discount_price": 29.95
+        },
+        {
+            "title": "Printed Scoop Neck Dress with Pockets and Scarf Detail",
+            "price": 35.0
+        },
+        {
+            "title": "Elephant Print Popover Top",
+            "price": 20.0
+        },
+        {
+            "title": "Flutter Sleeved Top with Hi Low Hem",
+            "price": 59.0
+        }
+    ]
+}
