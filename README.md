@@ -1,4 +1,4 @@
-# Scraper of suzyshier-dot-com
+# Scraper for suzyshier-dot-com
 
 ## Goal
 
