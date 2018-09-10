@@ -35,8 +35,10 @@ def get_bottoms():
             new_item = {
                 'title': item['title'],
                 'price': item['offers'][0]['price'],
-                'colors': list({offer['title'].partition(' / ')[0] for offer in item['offers']}),
-                'sizes': list({offer['title'].partition(' / ')[2] for offer in item['offers']}),
+                'colors': list({offer['title'].partition(' / ')[0] for offer in item['offers']
+                                if offer['in_stock']}),
+                'sizes': list({offer['title'].partition(' / ')[2] for offer in item['offers']
+                               if offer['in_stock']}),
                 'specs': [spec.replace('</li>', '').strip() for spec in
                           item['description'].split('<li>')[1:]],
                 'description': item['description'].split('<li>', 1)[0].strip(),
